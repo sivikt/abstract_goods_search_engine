@@ -6,7 +6,6 @@ This specification describes search engine architecture and its components.
 The diagram below illustrates the currently selected approach to search and rank Goods,
 although there are no `ML Learning algorithm`, `ML Ranking model` and `Labeled Training data` at the moment.
 
-![General high-level approach.](docs/MLR-search-engine-example.png)
 ![Current architecture of a machine-learned search engine.](docs/architecture.jpg)
 
 
