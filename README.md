@@ -1,4 +1,4 @@
-# Search Engine Specification
+# Search Engine Specification, 2021
 
 ## 1. General notes on architecture
 
