@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.search-box{
+    border: 1px solid #e0e0e0;
+    padding-top: 1em;
+}
+.search-list{
+    background: #fff;
+}
+
+.small-text {
+   font-size: 11pt;
+}

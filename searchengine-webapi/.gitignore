@@ -1,0 +1,6 @@
+.idea
+__pycache__
+.env
+searchengine_webapi/nltk_data
+*.log
+dist

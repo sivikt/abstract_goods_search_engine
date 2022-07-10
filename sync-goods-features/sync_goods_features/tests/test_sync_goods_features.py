@@ -1,0 +1,1 @@
+from sync_goods_features import sync
